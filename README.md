@@ -6,12 +6,11 @@ Ensure you have Python 3 installed.
 Install the required libraries:
 Bash
 pip install requests rich subprocess
-يُرجى استخدام الرمز البرمجي بحذر.
 Usage
 Run the script:
 Bash
 python proxy-updater.py
-يُرجى استخدام الرمز البرمجي بحذر.
+
 The script will automatically download proxies and display progress.
 
 Output
